@@ -1,3 +1,5 @@
+Assets/TextMesh?Pro/** linguist-generated
+
 # Define macros (only works in top-level gitattributes files)
 [attr]lfs               filter=lfs diff=lfs merge=lfs -text
 [attr]unity-json        eol=lf linguist-language=json
